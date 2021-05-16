@@ -1,0 +1,15 @@
+checkpoints
+checkpoint
+data
+paper
+demo
+paper
+result/**/Fixed_results
+result/**/Random_results
+.idea/
+__pycache__
+*.pkl
+*.pdf
+*.ppt
+*.pptx
+
